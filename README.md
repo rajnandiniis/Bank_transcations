@@ -1,2 +1,2 @@
 # Bank_transcations
-Bank_transactions : this is the combination of SQL and POWER BI , from this project  i analyse the which  type of transaction from the customer are beneficial to the bank and which causes are responsible for the bank loss/profit
+PAYTM_transactions_DUMMY : this is the combination of SQL and POWER BI , Overall, our project provides a comprehensive framework for analyzing transaction data, enabling the bank to make informed decisions and strategies to enhance profitability and operational efficiency. This is all dummy data genrated by open ai.
